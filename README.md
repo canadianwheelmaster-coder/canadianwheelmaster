@@ -29,6 +29,6 @@ This is a single-file static website. No build tools or dependencies required.
 |------|-------------|
 | `index.html` | Complete website (all assets embedded) |
 | `README.md` | This file |
-
+Pages deployment refresh - 12 August 2026
 ---
 © 2025 Canadian Wheel Master · Rahul Manchanda · Ontario, Canada 🍁
